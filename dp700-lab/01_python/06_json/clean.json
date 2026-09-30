@@ -1,0 +1,12 @@
+[
+  {
+    "order_id": "A-1",
+    "amount": 25.5,
+    "country": "ES"
+  },
+  {
+    "order_id": "A-2",
+    "amount": 40.0,
+    "country": "PT"
+  }
+]
